@@ -1,0 +1,2 @@
+# Shortcuts
+Linux, Window
