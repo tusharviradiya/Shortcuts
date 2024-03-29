@@ -9,3 +9,5 @@
 - taskbar app : Window + 123...
 - open link in new tab : click with ctr
 - change git rapo in vs code : ctr + R
+- create window in terminal : ctr + shift + T
+- close window in terminal : ctr + shift + W
