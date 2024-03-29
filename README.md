@@ -11,3 +11,4 @@
 - change git rapo in vs code : ctr + R
 - create window in terminal : ctr + shift + T
 - close window in terminal : ctr + shift + W
+- close any application which open like chrome : ctr + Q
