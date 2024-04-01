@@ -14,3 +14,4 @@
 - close any application which open like chrome : ctr + Q
 - open download in browser : ctr + j
 - open history in browser : ctr + h
+- reverse change in window chain : ctr + shift + tab
