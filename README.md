@@ -15,3 +15,4 @@
 - open download in browser : ctr + j
 - open history in browser : ctr + h
 - reverse change in window chain : ctr + shift + tab
+- search in webpage : ctr + E (for new search) / ctr + F (for word search)
